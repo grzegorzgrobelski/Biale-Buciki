@@ -1,0 +1,26 @@
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/appsettings.Development.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/appsettings.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/Biale Buciki.staticwebassets.runtime.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/Biale Buciki
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/Biale Buciki.deps.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/Biale Buciki.runtimeconfig.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/Biale Buciki.dll
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/bin/Debug/net6.0/Biale Buciki.pdb
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.csproj.AssemblyReference.cache
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.AssemblyInfoInputs.cache
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.AssemblyInfo.cs
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.csproj.CoreCompileInputs.cache
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.MvcApplicationPartsAssemblyInfo.cache
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.RazorAssemblyInfo.cache
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.RazorAssemblyInfo.cs
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/staticwebassets.build.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/staticwebassets.development.json
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/scopedcss/bundle/Biale Buciki.styles.css
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/scopedcss/projectbundle/Biale Buciki.bundle.scp.css
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.dll
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/refint/Biale Buciki.dll
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.pdb
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.genruntimeconfig.cache
+/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/ref/Biale Buciki.dll

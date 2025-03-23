@@ -1,0 +1,83 @@
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<!DOCTYPE html>
+<html lang="pl" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title - Moja Aplikacja</title>
+    <!-- Dodanie linku do Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link href="~/css/fileUploadStyle.css" rel="stylesheet" />
+</head>
+
+<body>
+<div class="container d-flex justify-content-center">
+    <h1 > Nowy Post</h1>
+</div>
+<div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Tytuł Postu"  aria-label="Text input with dropdown button">
+    <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Akcja</button>
+    <ul class="dropdown-menu dropdown-menu-end">
+        <li><a class="dropdown-item"  href="#">Dodaj Nagranie</a></li>
+        <li><a class="dropdown-item" href="#">Dodaj Zdjęcie</a></li>
+    </ul>
+</div>
+<div class="input-group">
+    <span class="input-group-text">Opis</span>
+    <textarea class="form-control" aria-label="With textarea"></textarea>
+</div>
+<br/>
+
+<div id="NewActionContainer" class="container">
+    @* <div>
+    ZAKOMENTOWANE TYLKO TYMCZASOWO POZNIEJ TRZEBA DO TEGO WROCIC I TO DZIALA TYLKO POPRAWKI
+    
+     *@  
+    @*     <h1>How to record audio using Web Audio API in JavaScript</h1> *@
+    @*     <div> *@
+    @*         <button type="button" id="buttonStart">Start</button> *@
+    @*         <button type="button" id="buttonStop" disabled>Stop</button> *@
+    @*     </div> *@
+    @*     <div> *@
+    @*         <audio controls id="audio"></audio> *@
+    @*     </div> *@
+    @*     <script src="~/js/encodeAudio.js"></script> *@
+    @*     <script src="~/js/audioMain.js"></script> *@
+    @* </div>     *@
+    @* *@
+    
+    
+    <div class="container justify-content-center row" id="fileUploader">
+        <form class="file-upload-form">
+            <label class="file-upload-label" for="file">
+                <div class="file-upload-design">
+                    <svg height="1em" viewBox="0 0 640 512">
+                        <path
+                            d="M144 480C64.5 480 0 415.5 0 336c0-62.8 40.2-116.2 96.2-135.9c-.1-2.7-.2-5.4-.2-8.1c0-88.4 71.6-160 160-160c59.3 0 111 32.2 138.7 80.2C409.9 102 428.3 96 448 96c53 0 96 43 96 96c0 12.2-2.3 23.8-6.4 34.6C596 238.4 640 290.1 640 352c0 70.7-57.3 128-128 128H144zm79-217c-9.4 9.4-9.4 24.6 0 33.9s24.6 9.4 33.9 0l39-39V392c0 13.3 10.7 24 24 24s24-10.7 24-24V257.9l39 39c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-80-80c-9.4-9.4-24.6-9.4-33.9 0l-80 80z"
+                        ></path>
+                    </svg>
+                    <p>Drag and Drop</p>
+                    <p>or</p>
+                    <span class="browse-button">Browse file</span>
+                </div>
+                <input type="file" id="file" />
+            </label>
+        </form>
+    </div>       
+    
+    
+</div>
+<br/>
+
+<div class="container d-flex justify-content-center">
+    <button type="button" class="btn btn-outline-secondary">Wrzuć</button>
+    <button type="button" class="btn btn-outline-danger">Anuluj</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+<script src="~/js/newPost.js"></script>
+
+</body>
+</html>
