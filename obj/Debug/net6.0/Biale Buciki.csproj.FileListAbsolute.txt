@@ -24,3 +24,34 @@
 /Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.pdb
 /Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/Biale Buciki.genruntimeconfig.cache
 /Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/Debug/net6.0/ref/Biale Buciki.dll
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/appsettings.Development.json
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/appsettings.json
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/Biale Buciki.staticwebassets.runtime.json
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/Biale Buciki
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/Biale Buciki.deps.json
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/Biale Buciki.runtimeconfig.json
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/Biale Buciki.dll
+/Users/bartek/Desktop/Projekty/buty/bin/Debug/net6.0/Biale Buciki.pdb
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.csproj.AssemblyReference.cache
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.AssemblyInfoInputs.cache
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.AssemblyInfo.cs
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.csproj.CoreCompileInputs.cache
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.MvcApplicationPartsAssemblyInfo.cache
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.RazorAssemblyInfo.cache
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.RazorAssemblyInfo.cs
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets/msbuild.Biale Buciki.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets/msbuild.build.Biale Buciki.props
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Biale Buciki.props
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Biale Buciki.props
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets.build.json
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/staticwebassets.development.json
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/scopedcss/bundle/Biale Buciki.styles.css
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/scopedcss/projectbundle/Biale Buciki.bundle.scp.css
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.dll
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/refint/Biale Buciki.dll
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.pdb
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/Biale Buciki.genruntimeconfig.cache
+/Users/bartek/Desktop/Projekty/buty/obj/Debug/net6.0/ref/Biale Buciki.dll

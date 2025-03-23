@@ -8,24 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/grzegorzgrobelski/.nuget/packages/": {}
+    "/Users/bartek/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/Biale Buciki.csproj",
+      "projectUniqueName": "/Users/bartek/Desktop/Projekty/buty/Biale Buciki.csproj",
       "projectName": "Biale Buciki",
-      "projectPath": "/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/Biale Buciki.csproj",
-      "packagesPath": "/Users/grzegorzgrobelski/.nuget/packages/",
-      "outputPath": "/Users/grzegorzgrobelski/RiderProjects/Biale Buciki/Biale Buciki/obj/",
+      "projectPath": "/Users/bartek/Desktop/Projekty/buty/Biale Buciki.csproj",
+      "packagesPath": "/Users/bartek/.nuget/packages/",
+      "outputPath": "/Users/bartek/Desktop/Projekty/buty/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/grzegorzgrobelski/.nuget/NuGet/NuGet.Config"
+        "/Users/bartek/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/sdk/7.0.314/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
       }
     }
   }
